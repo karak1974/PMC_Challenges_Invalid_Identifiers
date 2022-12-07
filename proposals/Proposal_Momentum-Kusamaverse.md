@@ -21,4 +21,4 @@ The island system is confusing and not only for newcomers. We've seen people wit
 
 ## Topology
 
-Please provide a drawn topology, you can use https://draw.io/
+https://miro.com/app/board/uXjVP8WTHBg=/?share_link_id=843742821565
