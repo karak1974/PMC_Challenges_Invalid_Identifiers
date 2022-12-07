@@ -1,3 +1,6 @@
 [submodule "sporran"]
 	path = KILT_login_integration/sporran-extension
 	url = git@github.com:lez/sporran-extension.git
+[submodule "sporran-extension"]
+	path = sporran-extension
+	url = https://github.com/lez/sporran-extension.git
